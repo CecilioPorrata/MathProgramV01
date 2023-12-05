@@ -1,0 +1,14 @@
+C:\Users\coderrata\Desktop\schoolProgramming\bin\Debug\net8.0\schoolProgramming.exe
+C:\Users\coderrata\Desktop\schoolProgramming\bin\Debug\net8.0\schoolProgramming.deps.json
+C:\Users\coderrata\Desktop\schoolProgramming\bin\Debug\net8.0\schoolProgramming.runtimeconfig.json
+C:\Users\coderrata\Desktop\schoolProgramming\bin\Debug\net8.0\schoolProgramming.dll
+C:\Users\coderrata\Desktop\schoolProgramming\bin\Debug\net8.0\schoolProgramming.pdb
+C:\Users\coderrata\Desktop\schoolProgramming\obj\Debug\net8.0\schoolProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coderrata\Desktop\schoolProgramming\obj\Debug\net8.0\schoolProgramming.AssemblyInfoInputs.cache
+C:\Users\coderrata\Desktop\schoolProgramming\obj\Debug\net8.0\schoolProgramming.AssemblyInfo.cs
+C:\Users\coderrata\Desktop\schoolProgramming\obj\Debug\net8.0\schoolProgramming.csproj.CoreCompileInputs.cache
+C:\Users\coderrata\Desktop\schoolProgramming\obj\Debug\net8.0\schoolProgramming.dll
+C:\Users\coderrata\Desktop\schoolProgramming\obj\Debug\net8.0\refint\schoolProgramming.dll
+C:\Users\coderrata\Desktop\schoolProgramming\obj\Debug\net8.0\schoolProgramming.pdb
+C:\Users\coderrata\Desktop\schoolProgramming\obj\Debug\net8.0\schoolProgramming.genruntimeconfig.cache
+C:\Users\coderrata\Desktop\schoolProgramming\obj\Debug\net8.0\ref\schoolProgramming.dll
