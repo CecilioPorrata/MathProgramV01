@@ -18,16 +18,22 @@ Create your own math problems with up to 5 digits per set (2).
 ### How to run the program: 
 #### Requirements: 
 UPDATED:
-- Now the languages are in separate folders. So, far javascript and C#
+- Now the languages are in separate folders. So far, javascript and C#
 JAVASCRIPT:
 - Created with node v16.17.0. Not quite sure if it matters, but it was used to create a user input... readline to get user input from console.
 - That's it
 node mathProgram.js
 
 C#
-- Created with .net 6.0 and .net 8.0
-- Change the schoolProgramming.csproj file to target the version you would prefer.
-- 
+- Created with .net 8.0 and checked with .net6.0
+- Navigate to C# folder
+- Change, if needed, the schoolProgramming.csproj file to target the version you would prefer.
+```csharp
+// change this line to target your .net framework
+<TargetFramework>net6.0</TargetFramework>
+```
+- To run the program: <br>
+dotnet run
 
 ### Future:
 - Create the ability to retry a problem for a certain amount of attempts
