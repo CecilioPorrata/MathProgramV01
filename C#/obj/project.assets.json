@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\coderrata\\Desktop\\schoolProgramming\\schoolProgramming.csproj",
+      "projectUniqueName": "C:\\Users\\coderrata\\Desktop\\testarea\\MathProgram\\c#\\schoolProgramming.csproj",
       "projectName": "schoolProgramming",
-      "projectPath": "C:\\Users\\coderrata\\Desktop\\schoolProgramming\\schoolProgramming.csproj",
+      "projectPath": "C:\\Users\\coderrata\\Desktop\\testarea\\MathProgram\\c#\\schoolProgramming.csproj",
       "packagesPath": "C:\\Users\\coderrata\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\coderrata\\Desktop\\schoolProgramming\\obj\\",
+      "outputPath": "C:\\Users\\coderrata\\Desktop\\testarea\\MathProgram\\c#\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
