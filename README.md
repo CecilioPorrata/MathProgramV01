@@ -28,7 +28,7 @@ C#
 - Created with .net 8.0 and checked with .net6.0
 - Navigate to C# folder
 - Change, if needed, the schoolProgramming.csproj file to target the version you would prefer.
-```csharp
+```
 // change this line to target your .net framework
 <TargetFramework>net6.0</TargetFramework>
 ```
